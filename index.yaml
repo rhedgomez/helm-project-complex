@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  project-complex:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-05-02T14:00:53.219071-06:00
+    description: A Helm chart for Kubernetes
+    digest: f74c4d8071121ccfc14c4fca31371d5831414efffd99890d8f03c5177a6bceef
+    name: project-complex
+    urls:
+    - project-complex-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-05-02T14:00:53.218438-06:00
